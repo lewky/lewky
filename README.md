@@ -1,4 +1,4 @@
-### Hi there 👋
+### <a href="https://lewky.cn/" target="_blank">Hi there</a> 👋
 
 <!--
 **lewky/lewky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://lewky.blog.csdn.net/" target="_blank">
+    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
+  </a>
+  &emsp;
+  <a href= "https://lewky.cn" target="_blank">
+    <img src="https://img.icons8.com/metro/26/000000/home.png" width="30px"/>
+  </a>
+  &emsp;
+  <a href="https://javanote.doc.lewky.cn/" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" width="30px"/>
+  </a>  
+</p>
+<p align="center">
+  <a href="https://github.com/lewky">
+    <img src="https://github-profile-trophy.vercel.app/?username=lewky&theme=darkhub" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/lewky">
+    <img src="https://github-readme-stats.vercel.app/api?username=lewky&theme=dracula&show_icons=true" />
+  </a>
+</p>
