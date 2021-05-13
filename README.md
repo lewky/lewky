@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   &emsp;
-  <a href= "https://lewky.cn" target="_blank" title="个人站点">
+  <a href= "http://wangzai.icu/" target="_blank" title="个人站点">
     <img src="https://img.icons8.com/metro/26/000000/home.png" width="30px"/>
   </a>
   &emsp;
@@ -29,12 +29,12 @@ Here are some ideas to get you started:
   </a>  
 </p>
 <p align="center">
-  <a href="https://github.com/lewky">
+  <a href="https://github.com/wangwangit">
     <img src="https://github-profile-trophy.vercel.app/?username=lewky&theme=darkhub" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/lewky">
+  <a href="https://github.com/wangwangit">
     <img src="https://github-readme-stats.vercel.app/api?username=lewky&theme=dracula&show_icons=true" />
   </a>
 </p>
